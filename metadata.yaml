@@ -1,5 +1,8 @@
 _repo: The-phantom-hunter-or-love-after-death_69168
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69168-h/images/cover.jpg
 creator:
   author:
     agent_name: Emerson, Edwin
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '32314'
     url: http://www.gutenberg.org/2009/agents/32314
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69168#The-phantom-hunter-or-love-after-death
 gutenberg_issued: '2022-10-16'
 identifiers:
   gutenberg: '69168'
